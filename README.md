@@ -37,7 +37,7 @@ Diseño y construyo **herramientas de escritorio** para analizar binarios y auto
 | **Cofre Pro** | Desofuscador con ventana Java y motor Python. Analiza y revierte ofuscación reversible, y abre `.exe`: secciones, recursos, guiones embebidos, PyInstaller y Nuitka onefile. 23 + 183 comprobaciones automáticas. | Java 21 · Swing · Python · PE |
 | **CodeShield** | Ofuscador multi-lenguaje (Python, JavaScript y PHP) y su reverso, con formato binario propio y verificación por checksum. | Python · JavaScript · PHP |
 
-> Los dos repositorios son **privados por ahora**. Si necesitas ver el código o una demostración, abre un [issue](https://github.com/jero0940/jero0940/issues).
+> Los repositorios de proyectos son **privados por ahora**. Si necesitas ver el código o una demostración, abre un [issue](https://github.com/jero0940/jero0940/issues).
 
 ### Cómo trabajo
 
@@ -66,7 +66,7 @@ I build **desktop tools** for binary analysis and automation. I care about the t
 | **Cofre Pro** | De-obfuscator with a Java UI and a Python engine. Inspects and unpacks `.exe` files: sections, resources, embedded scripts, PyInstaller and Nuitka onefile. 23 + 183 automated checks. | Java 21 · Swing · Python · PE |
 | **CodeShield** | Multi-language obfuscator (Python, JavaScript, PHP) and its reverse, with a custom binary format and checksum verification. | Python · JavaScript · PHP |
 
-> Both repositories are **private for now**. If you need to see the code or a demo, open an [issue](https://github.com/jero0940/jero0940/issues).
+> Project repositories are **private for now**. If you need to see the code or a demo, open an [issue](https://github.com/jero0940/jero0940/issues).
 
 **How I work**
 
